@@ -1,0 +1,26 @@
+.container{
+    
+    top: 50%;
+    left: 50%;
+    border: 2px solid black;
+ 
+    position: absolute;
+    height: 80%;
+    width: 90%;
+    padding: 5px;
+    box-sizing: border-box;
+    border-bottom-right-radius: 20px;
+    transform: translate(-50%, -50%);
+}
+.container2{
+    background-image: url(full-shot-smiley-man-with-shopping-bags_23-2149220645.avif);
+    border: 2px solid black;
+    position: absolute;
+    height: 98%;
+    margin-left: 39%;
+    width: 60%;
+    padding: 5px;
+    box-sizing: border-box;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 45px;
+}
